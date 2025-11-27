@@ -12,7 +12,5 @@ Always exploring technology and improving my skills.  <br>Mostly working with PH
 ![](https://nirzak-streak-stats.vercel.app/?user=SoraYaki&theme=transparent&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SoraYaki&theme=transparent&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SoraYaki&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
